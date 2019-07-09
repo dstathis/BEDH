@@ -8,3 +8,6 @@ This format will have a council which votes on any changes to BEDH. A vote of 80
 
 ## Current Council Members
 Dylan Stephano-Shachter
+Joe Curran
+Pat Dunleavy
+Rikki Sparks
