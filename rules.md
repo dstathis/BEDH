@@ -41,6 +41,7 @@
 - Sol Ring
 - Mox Diamond
 - Demonic Tutor
+- Vampiric Tutor
 
 ## Unbanned Cards
 - Braids, Cabal Minion
